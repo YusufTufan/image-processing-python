@@ -129,4 +129,3 @@ GitHub: [@YusufTufan](https://github.com/YusufTufan)
 ---
 
 > Bu repo, yapay zekâ ve görüntü işleme yolculuğunuzda size güçlü bir temel sunmak üzere hazırlanmıştır.
-```
