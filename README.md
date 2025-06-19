@@ -1,5 +1,5 @@
 # 🧠 Image Processing with Python
-
+ 
 Bu repo, Python kullanarak gerçekleştirilen **temel ve ileri düzey görüntü işleme uygulamalarını** barındıran kapsamlı bir kaynaktır. Eğitim, akademik çalışma, araştırma ya da bireysel projeler için kullanılabilir. Kodlar, anlaşılır ve modüler olacak şekilde yapılandırılmıştır.
 ---
 
